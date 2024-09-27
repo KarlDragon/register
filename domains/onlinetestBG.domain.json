@@ -1,0 +1,15 @@
+{
+    "description": "This project is created with the purpose of trying my skills in the field of full stack development, particularly in the backend. The site content is a simple testing page for students.",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "BG",
+
+    "owner": {
+        "repo": "https://github.com/KarlDragon/Online_exams_web",
+        "email": "giocodeproject@example.com"
+    },
+    "record": {
+        "TXT": ["v=spf1 include:_spf.onlinetestBG.com ~all"]
+    },
+
+    "proxied": false
+}
